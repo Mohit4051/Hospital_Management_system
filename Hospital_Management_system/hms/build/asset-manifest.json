@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9d63bc15.css",
+    "main.js": "/static/js/main.e35467c9.js",
+    "static/js/787.c246850b.chunk.js": "/static/js/787.c246850b.chunk.js",
+    "static/media/samplebg.jpeg": "/static/media/samplebg.b1d53dc94fb49ee040b6.jpeg",
+    "static/media/finalbg2.png": "/static/media/finalbg2.c04ec90e1d4587877a20.png",
+    "static/media/Carousel2.png": "/static/media/Carousel2.6e65e6a7287604bccbfa.png",
+    "static/media/b2.jpeg": "/static/media/b2.c847f2a16bca8e7635d1.jpeg",
+    "static/media/Carousel3.png": "/static/media/Carousel3.76b7509dfaf63e3d73e0.png",
+    "static/media/Carousel1.png": "/static/media/Carousel1.99bc60947cd5aaf287ed.png",
+    "static/media/b3.jpg": "/static/media/b3.7230adf9c181a9bd180f.jpg",
+    "static/media/Medicines.webp": "/static/media/Medicines.5b61c8fbcac5cff1fa28.webp",
+    "static/media/Cardiology.jpg": "/static/media/Cardiology.1896664b9e9d45b48d22.jpg",
+    "static/media/Surgery.webp": "/static/media/Surgery.2b2f5d79818457f2d89f.webp",
+    "static/media/b6.jpg": "/static/media/b6.5ab60b843c3519426186.jpg",
+    "static/media/b5.jpeg": "/static/media/b5.44eb5803f5c3019b61aa.jpeg",
+    "static/media/finalbg.avif": "/static/media/finalbg.03ed41fa96cb59e1ade8.avif",
+    "static/media/Service-Hospital.webp": "/static/media/Service-Hospital.e85d854c529bd4459fb2.webp",
+    "static/media/b1.jpg": "/static/media/b1.d3256a794a0dd7d11a36.jpg",
+    "static/media/background.jpg": "/static/media/background.057e2579c76d53125b7a.jpg",
+    "static/media/b4.jpg": "/static/media/b4.a02494ed0493de1ca9e2.jpg",
+    "static/media/Logo.png": "/static/media/Logo.b85d5e5e30b6b75fe8f2.png",
+    "static/media/option1.jpg": "/static/media/option1.bdbeef45791c785a1b35.jpg",
+    "static/media/Diabetes.jpg": "/static/media/Diabetes.aa9009e4251d1231cb27.jpg",
+    "static/media/third-carousal.630": "/static/media/third-carousal.84586c5455274c2befed.630",
+    "static/media/About-3600x1200-centered.webp": "/static/media/About-3600x1200-centered.bc4a9968bf00d34541bd.webp",
+    "static/media/second-carousal.jpg": "/static/media/second-carousal.2c251a598b4961a519b6.jpg",
+    "static/media/Critical.jpg": "/static/media/Critical.0c2c807aa1f98d8bb474.jpg",
+    "static/media/Patient Centricity2.svg": "/static/media/Patient Centricity2.c44bb440570ea8bf2cf847f2c729460d.svg",
+    "static/media/Integrity2.svg": "/static/media/Integrity2.c3df1a5c3b48709d9884c353509bbf74.svg",
+    "static/media/Team Work2.svg": "/static/media/Team Work2.8412e93c9b115156d979e31614a20ff1.svg",
+    "static/media/Ownership2.svg": "/static/media/Ownership2.20ad11ff1c770549228b2d393654e74d.svg",
+    "index.html": "/index.html",
+    "main.9d63bc15.css.map": "/static/css/main.9d63bc15.css.map",
+    "main.e35467c9.js.map": "/static/js/main.e35467c9.js.map",
+    "787.c246850b.chunk.js.map": "/static/js/787.c246850b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d63bc15.css",
+    "static/js/main.e35467c9.js"
+  ]
+}
